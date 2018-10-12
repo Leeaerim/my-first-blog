@@ -16,9 +16,10 @@
 .content {
     position: relative;
     float: left;
-    width: 1920px;
+    width: 1900px;
     height: auto;
     margin-top: 50px;
+    margin-left: -10px
 }
 
 h1, h2, h3, h4 {
@@ -33,6 +34,7 @@ h1, h2, h3, h4 {
     height: auto;
     color: #828282;
     border-bottom: solid rgb(200,200,200) 1px;
+    margin-bottom: 30px;
 }
 
 .save {
